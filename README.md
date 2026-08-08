@@ -89,9 +89,8 @@ dev = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanfelipes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfelipes7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=luanfelipes7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luanfelipes7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
